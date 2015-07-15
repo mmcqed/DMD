@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import superpixelMethod
 import miscDMD
-
+#change
 # Diffraction limited spot size in target plane in units of DMD pixels:
 resolution = 8
 
