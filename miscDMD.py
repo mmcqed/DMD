@@ -10,6 +10,8 @@ from scipy.constants import pi
 
 #os.chdir(os.path.dirname(sys.argv[0]))
 
+'''Helper functions pertaining to the calculation of a DMD mask that corresponds to a desired amplitude and phase profile'''
+
 
 def make_field_from_image(amplitudeimage, phaseimage):
 
